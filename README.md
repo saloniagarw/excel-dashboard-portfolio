@@ -60,5 +60,5 @@
 
 ## 🚀 Connect with me
 
-- 📧 Email: agarwalssaloni546@gmail.com  
+- 📧 Email: agarwalsaloni546@gmail.com  
 - 🔗 LinkedIn: [Saloni Agarwal](https://linkedin.com/in/saloni-agarwal-7b9484291)

@@ -1,6 +1,10 @@
 # 📊 Sales Performance Dashboard (Excel Project)
 
-🚀 Interactive Excel dashboard for analyzing sales performance and business insights.
+🚀 Interactive Excel Dashboard for Sales Analytics | Data Visualization | Business Insights
+
+---
+## 📂 Download Project
+👉 [Download Excel Dashboard](Sales_Performance_Dashboard_Excel.xlsx)
 
 ---
 
@@ -30,10 +34,17 @@
 
 ## 📸 Dashboard Preview:
 
-![Dashboard](dashboard.png)
-![Dashboard](dashboard%202.png)
-![Dashboard](dashboard%203.png)
+### 🔹 Main Dashboard
+<img src="dashboard.png" width="100%" />
 
+---
+
+### 🔹 More Views
+<p align="center">
+  <img src="dashboard 2.png" width="30%" />
+  <img src="dashboard 3.png" width="30%" />
+  <img src="dashboard 4.png" width="30%" />
+</p>
 ---
 
 ## 💡 Insights:

@@ -4,8 +4,7 @@
 
 ---
 ## 📂 Download Project
-👉 [Download Excel Dashboard](Sales_Performance_Dashboard_Excel.xlsx)
-
+👉 📥 [Download Excel Dashboard](Sales_Performance_Dashboard_Excel.xlsx)
 ---
 
 ## 📊 Key Features:

@@ -58,5 +58,7 @@
 
 ---
 
-# 🚀 Connect with me
-If you like this project, feel free to star ⭐ the repo!
+## 🚀 Connect with me
+
+- 📧 Email: agarwalssaloni546@gmail.com  
+- 🔗 LinkedIn: [Saloni Agarwal](https://linkedin.com/in/saloni-agarwal-7b9484291)
